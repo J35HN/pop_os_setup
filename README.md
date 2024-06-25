@@ -3,6 +3,7 @@ Hello!
 # Pop_os
 * Background: 60_cake.png
 * Dock: Disabled
+* Font: CascadiaMono?
 
 # Gnome
 ## Gnome Tweaks
